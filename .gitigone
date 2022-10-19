@@ -191,7 +191,7 @@ target/
 celerybeat-schedule
 
 # SageMath parsed files
-*.sage.py
+.sage.py
 
 # dotenv
 .env
